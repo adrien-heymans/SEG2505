@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Adrien Heymans
 =======
 Mohammed Lakhal
 >>>>>>> 80d97fcd3e37db2e877f4dd2a60f8f171be88fd2
 
 
+=======
+Nafissatou Soumare
+>>>>>>> f5568d135309ad08dfee5ae8f39ccfa9a61db00f
