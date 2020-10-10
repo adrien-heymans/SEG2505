@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+Charles-Antoine Campeau
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 Adrien Heymans
 =======
@@ -9,3 +12,4 @@ Mohammed Lakhal
 =======
 Nafissatou Soumare
 >>>>>>> f5568d135309ad08dfee5ae8f39ccfa9a61db00f
+>>>>>>> 289ce30fa74068e9d2af51338fbe4e8788bab8f1
